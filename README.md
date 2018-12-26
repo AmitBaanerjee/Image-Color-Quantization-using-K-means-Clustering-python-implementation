@@ -10,6 +10,6 @@ Before digging into the palette selection in more detail here's a simple and bri
 
 In this project I was given a input image of a baboon and the resultant quantized images using number of clusters(k), where k=3, k=5, k=10 and k=20 respectively;
 
- 
+ ![Optional Text](../master/Task3/baboon.png)
 
  

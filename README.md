@@ -10,5 +10,10 @@ Before digging into the palette selection in more detail here's a simple and bri
 
 In this project I was given a input image of a baboon and the resultant quantized images using number of clusters(k), where k=3, k=5, k=10 and k=20 respectively;
 
+![clusters=0](task3/task3_baboon.jpg)
+![clusters=5](task3/task3_baboon_5.jpg)
+![clusters=10](task3/task3_baboon_10.jpg)
+![clusters=20](task3/task3_baboon_20.jpg)
+
 
  
